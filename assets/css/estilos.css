@@ -20,6 +20,10 @@ body {
   background-position: center;
 }
 
+ .bg-info{
+  background-color: aquamarine !important;
+}
+
 /* Contacto */
 
 #Contacto form label {
